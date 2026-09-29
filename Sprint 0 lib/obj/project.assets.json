@@ -288,19 +288,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MB\\.nuget\\packages\\": {}
+    "C:\\Users\\aravb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\MB\\Coding projects\\Sprint 0\\Sprint 0 lib\\Sprint 0 lib.csproj",
+      "projectUniqueName": "C:\\Users\\aravb\\Downloads\\Sprint-2-3902-main\\Sprint-1\\Sprint 0 lib\\Sprint 0 lib.csproj",
       "projectName": "Sprint 0 lib",
-      "projectPath": "c:\\Users\\MB\\Coding projects\\Sprint 0\\Sprint 0 lib\\Sprint 0 lib.csproj",
-      "packagesPath": "C:\\Users\\MB\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\MB\\Coding projects\\Sprint 0\\Sprint 0 lib\\obj\\",
+      "projectPath": "C:\\Users\\aravb\\Downloads\\Sprint-2-3902-main\\Sprint-1\\Sprint 0 lib\\Sprint 0 lib.csproj",
+      "packagesPath": "C:\\Users\\aravb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aravb\\Downloads\\Sprint-2-3902-main\\Sprint-1\\Sprint 0 lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aravb\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

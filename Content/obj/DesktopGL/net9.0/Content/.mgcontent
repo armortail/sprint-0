@@ -4,8 +4,8 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/MB/Coding projects/Sprint 0/Content/spritefont.spritefont</File>
-    <File>C:/Users/MB/Coding projects/Sprint 0/Content/SpriteSheet/mario_sprite_sheet.png</File>
+    <File>C:/Users/aravb/Downloads/Sprint-2-3902-main/Sprint-1/Content/spritefont.spritefont</File>
+    <File>C:/Users/aravb/Downloads/Sprint-2-3902-main/Sprint-1/Content/SpriteSheet/mario_sprite_sheet.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
